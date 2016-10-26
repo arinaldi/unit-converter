@@ -1,0 +1,23 @@
+body {
+   font-family: 'Noto Sans', sans-serif; 
+   font-weight: 300;
+   color: #333;
+}
+
+header {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+h1, h2 {
+	display: inline;
+}
+
+input {
+	width: 75px;
+  	text-indent: 5px;
+}
+
+p {
+	font-size: 14px;
+}
